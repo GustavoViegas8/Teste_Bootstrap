@@ -1,0 +1,17 @@
+.titulo {
+  font-family: "Dancing Script", serif;
+}
+
+.fundo-gradiente {
+  background: rgb(73, 71, 205);
+  background: linear-gradient(
+    90deg,
+    rgba(73, 71, 205, 1) 0%,
+    rgba(26, 37, 156, 1) 49%,
+    rgba(113, 13, 79, 1) 100%
+  );
+}
+
+header {
+  min-height: 500px;  
+}
